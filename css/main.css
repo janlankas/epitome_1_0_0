@@ -1620,13 +1620,13 @@ input::-moz-focus-inner {
   -webkit-transform: translate3d(0, -50%, 0);
   transform: translate3d(0, -50%, 0);
   position: absolute;
-  top: 50%;
+  top: 35%;
   left: 40px;
 }
 
 .header-logo a {
   font-family: Rhesmanisa ;
-  font-size: 5.75rem;
+  font-size: 5rem;
   color: white;
   display: block;
   margin: 0;
